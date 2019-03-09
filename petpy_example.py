@@ -12,6 +12,8 @@ def try_petpy(key):
     pets = pf.pet_find('New York', 'cat', count=1)
     #print(pets)
     #get shelters info
-    wa_shelter = pf.shelter_find(location='WA', count=1)
+    wa_shelter = pf.shelter_list_by_breed('dog', 'Dalamatine')
     return wa_shelter
+
+print(try_petpy(key))
 
