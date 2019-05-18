@@ -5,11 +5,17 @@ This project is aimed to create a search system for finding animals available fo
 Information about adoptable pets will be taken from the petfinder.com API, which allows to access their database of different shelters by providing an API key. If you want to get yours, please go to https://www.petfinder.com/developers/api-key.
 
 User needs to provide these kind of parameters:
+
 -location;
+
 -animal;
+
 -breed;
+
 -sex;
+
 -age;
+
 -amount of results.
 
 ![Знімок екрана (9)](https://user-images.githubusercontent.com/47388433/57974703-61552900-79c5-11e9-92ed-6ff7d0f67cbb.png)
