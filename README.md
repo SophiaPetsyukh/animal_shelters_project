@@ -32,9 +32,13 @@ If some of the information was invalid, user will get a message about it and wil
 
 
 Program structure:
+
 -The main module is called main.py
+
 -The classes, which I am using are in modules named pet_class.py and multiset_class.py. These modules are tested in test_classes.py
+
 -All the additional functions are in module named create_map.py
+
 -The html files, which I am using are in the folder called templates
 
 To use the petfinder program without downloading the whole package you can go to sofiykapet.pythonanywhere.com
