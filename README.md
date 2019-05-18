@@ -12,16 +12,18 @@ User needs to provide these kind of parameters:
 -age;
 -amount of results.
 
-photo1
+![Знімок екрана (9)](https://user-images.githubusercontent.com/47388433/57974703-61552900-79c5-11e9-92ed-6ff7d0f67cbb.png)
 
 After providing the right kind of information user can see a map with markers, which show the location of shelters that can provide the user with their wanted pet.
 For more information on the pet, user needs to click on the marker.
 
-photo2
+![Знімок екрана (7)](https://user-images.githubusercontent.com/47388433/57974738-d4f73600-79c5-11e9-8086-ec8101b1b049.png)
+
 
 If some of the information was invalid, user will get a message about it and will have to restart the program.
 
-photo3
+![Знімок екрана (8)](https://user-images.githubusercontent.com/47388433/57974727-c3ae2980-79c5-11e9-8fa6-092bc4427b40.png)
+
 
 Program structure:
 -The main module is called main.py
