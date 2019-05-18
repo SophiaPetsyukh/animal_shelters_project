@@ -29,4 +29,4 @@ Program structure:
 -All the additional functions are in module named create_map.py
 -The html files, which I am using are in the folder called templates
 
-To use the petfinder program you can go to --link--
+To use the petfinder program without downloading the whole package you can go to sofiykapet.pythonanywhere.com
